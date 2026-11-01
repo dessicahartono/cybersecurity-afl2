@@ -1,6 +1,6 @@
-Saya membuat sebuah aplikasi chat real-time menggunakan Node.js dan Socket.io
-Aplikasi ini punya dua jenis chat, yaitu chat biasa dan chat rahasia yang sudah terenkripsi menggunakan RSA.
+### Aplikasi chat real-time menggunakan Node.js dan Socket.io
 
+Aplikasi ini punya dua jenis chat, yaitu chat biasa dan chat rahasia yang sudah terenkripsi menggunakan RSA.
 Di dalam sistem ini, setiap user akan memiliki public key masing-masing.
 Pesan rahasia yang dikirim hanya bisa dibaca oleh user tujuan, jadi tidak semua orang bisa melihat isinya.
 Aplikasi ini juga mendukung banyak client sekaligus.
